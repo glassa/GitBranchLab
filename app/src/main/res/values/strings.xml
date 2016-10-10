@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitBranchLab</string>
+    <string name="title_activity_yunhang">YunhangActivity</string>
 </resources>
