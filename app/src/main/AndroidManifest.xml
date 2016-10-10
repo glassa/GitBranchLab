@@ -15,7 +15,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name=".tonysActivity"></activity>
+=======
+        <activity android:name=".Main2Activity" />
+        <activity
+            android:name=".YunhangActivity"
+            android:label="@string/title_activity_yunhang"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+>>>>>>> refs/remotes/origin/Yunhang
     </application>
 
 </manifest>
